@@ -8,7 +8,7 @@ export const Bio = {
     "Competitive Programmer",
   ],
   description:
-    "I Love t do both competitive programming and software Developing. i have deep drive in web development , ReactNative development , Blockchain App Development and currently working with integrating the web3.0 and ML , love to contribute in opensource community. I am also 3 star at Codechef , Pupil at Codeforces ,8 kyu at Atcoder and in Top 17.01% in Leetcode . Thats All About Me :)",
+    "I Love to do both competitive programming and software Developing. i have deep drive in web development , ReactNative development , Blockchain App Development and currently working with integrating the web3.0 and ML , love to contribute in opensource community. I am also 3 star at Codechef , Pupil at Codeforces ,8 kyu at Atcoder and in Top 17.01% in Leetcode . Thats All About Me :)",
   github: "https://github.com/debjitpurohit",
   resume:
     "https://drive.google.com/file/d/1X0J5Zy97DVL1545mwMBR-Att1l3eUyVw/view?usp=sharing",
